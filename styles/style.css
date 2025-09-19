@@ -227,7 +227,7 @@ button[label="Cancel"] span,
 /* Start new chat translation - all variations */
 button[label="Start new chat"],
 #vfrc-start-chat {
-  background-color: #6EBC43 !important;
+  background-color: #BE1622 !important;
   border-radius: 4px !important;
   padding: 10px 20px !important;
 }
@@ -249,7 +249,7 @@ button[label="Start new chat"]::before,
 
 /* Cancel translation */
 button[label="Cancel"] {
-  background-color: #6EBC43 !important;
+  background-color: #BE1622 !important;
   border-radius: 4px !important;
   padding: 10px 20px !important;
 }
